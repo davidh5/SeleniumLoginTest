@@ -1,0 +1,801 @@
+[0616/223717:ERROR:process_info.cc(330)] VirtualQueryEx: Odmowa dostêpu. (0x5)
+[0616/223717:ERROR:process_info.cc(547)] ReadMemoryInfo failed
+[0616/223717:ERROR:process_info.cc(608)] range at 0x77c9ab40, size 0x24 fully unreadable
+[0616/223717:ERROR:process_info.cc(608)] range at 0x77b9bc84, size 0x12 fully unreadable
+[0616/223717:ERROR:process_info.cc(608)] range at 0x77b9bc84, size 0x12 fully unreadable
+[0616/223717:ERROR:process_info.cc(608)] range at 0x77b9bc84, size 0x12 fully unreadable
+[0616/223717:ERROR:process_info.cc(608)] range at 0x77c984b8, size 0x18 fully unreadable
+[0616/223717:ERROR:process_info.cc(608)] range at 0x77c9883c, size 0x20 fully unreadable
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74c5e490 of 38 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(154)] could not read debug directory from C:\WINDOWS\SYSTEM32\KERNEL32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72ea0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77950000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x758d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x748b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x748c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x753a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75630000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome_elf.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77910000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71d70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75b00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71da0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75af0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73400000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73ee0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x742c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75930000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75880000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75fc0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76050000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77460000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73d10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71660000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75c50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71030000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75320000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71200000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75e00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74990000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x743f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75340000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71d50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x725a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x68240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome_child.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x710c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\AVAST Software\Avast\aswJsFlt.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x745b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCR110.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74550000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnIS.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x746f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCP110.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnOS.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74690000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnBS.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74890000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\log.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ef0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NSI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DNSAPI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74480000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\commchannel.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73b10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\JsonRpcServer.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\avastIP.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74430000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswEngLdr.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\AavmRpch.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WSOCK32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SETUPAPI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74090000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WININET.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74780000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashBase.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswAux.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashTask.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SRVCLI.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\Aavm4h.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70e30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77c9ab80 of 5888 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77b90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74bd0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72ea0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77950000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x758d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x748b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x748c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x753a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75630000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome_elf.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77910000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71d70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75b00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71da0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75af0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73400000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73ee0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x742c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75930000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75880000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75fc0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76050000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77460000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73d10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71660000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75c50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71030000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75320000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71200000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75e00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74990000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x743f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75340000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71d50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x725a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x68240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome_child.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x710c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\AVAST Software\Avast\aswJsFlt.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x745b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCR110.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74550000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnIS.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x746f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCP110.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnOS.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74690000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnBS.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74890000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\log.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ef0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NSI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DNSAPI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74480000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\commchannel.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73b10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\JsonRpcServer.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\avastIP.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74430000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswEngLdr.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\AavmRpch.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WSOCK32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SETUPAPI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74090000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WININET.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74780000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashBase.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswAux.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashTask.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SRVCLI.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\Aavm4h.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70e30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0616/223717:ERROR:process_reader_win.cc(98)] process 6960 not found
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77b90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74bd0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72ea0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77950000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x758d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x748b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x748c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x753a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75630000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome_elf.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77910000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71d70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75b00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71da0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75af0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73400000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73ee0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x742c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75930000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75880000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75fc0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76050000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77460000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73d10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71660000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75c50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71030000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75320000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71200000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75e00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74990000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x743f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75340000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71d50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x725a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x68240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome_child.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x710c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\AVAST Software\Avast\aswJsFlt.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x745b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCR110.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74550000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnIS.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x746f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCP110.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnOS.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74690000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnBS.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74890000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\log.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ef0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NSI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DNSAPI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74480000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\commchannel.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73b10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\JsonRpcServer.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\avastIP.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74430000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswEngLdr.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\AavmRpch.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WSOCK32.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SETUPAPI.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74090000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WININET.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74780000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashBase.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswAux.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashTask.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SRVCLI.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\Aavm4h.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70e30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0616/223717:ERROR:process_reader_win.cc(232)] ReadMemory at 0x2fc374 of 12 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223717:WARNING:process_snapshot_win.cc(102)] ReadMemory ExceptionInformation failed
+[0616/223717:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0616/223717:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
+[0616/223931:ERROR:process_info.cc(330)] VirtualQueryEx: Odmowa dostêpu. (0x5)
+[0616/223931:ERROR:process_info.cc(547)] ReadMemoryInfo failed
+[0616/223931:ERROR:process_info.cc(608)] range at 0x77c9ab40, size 0x24 fully unreadable
+[0616/223931:ERROR:process_info.cc(608)] range at 0x77b9bc84, size 0x12 fully unreadable
+[0616/223931:ERROR:process_info.cc(608)] range at 0x77b9bc84, size 0x12 fully unreadable
+[0616/223931:ERROR:process_info.cc(608)] range at 0x77b9bc84, size 0x12 fully unreadable
+[0616/223931:ERROR:process_info.cc(608)] range at 0x77c984b8, size 0x18 fully unreadable
+[0616/223931:ERROR:process_info.cc(608)] range at 0x77c9883c, size 0x20 fully unreadable
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71035a84 of 35 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(154)] could not read debug directory from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71200000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x68240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome_child.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x710c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\AVAST Software\Avast\aswJsFlt.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74550000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnIS.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x746f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCP110.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnOS.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74690000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnBS.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DNSAPI.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74480000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\commchannel.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73b10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\JsonRpcServer.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\avastIP.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74430000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswEngLdr.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\AavmRpch.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WSOCK32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74090000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WININET.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74780000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashBase.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswAux.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashTask.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SRVCLI.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\Aavm4h.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70e30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74bd0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72ea0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x758d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x748b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x748c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x753a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75630000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome_elf.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77910000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71d70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75b00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71da0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75af0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73400000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73ee0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x742c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75930000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75880000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75fc0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76050000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77460000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73d10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71660000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75c50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71030000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75320000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71200000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75e00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74990000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x743f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75340000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71d50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x725a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x68240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome_child.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x710c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\AVAST Software\Avast\aswJsFlt.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x745b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCR110.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74550000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnIS.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x746f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCP110.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnOS.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74690000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnBS.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74890000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\log.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ef0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NSI.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DNSAPI.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74480000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\commchannel.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73b10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\JsonRpcServer.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\avastIP.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74430000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswEngLdr.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\AavmRpch.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WSOCK32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SETUPAPI.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74090000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WININET.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74780000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashBase.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswAux.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashTask.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SRVCLI.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\Aavm4h.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70e30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0616/223931:ERROR:process_reader_win.cc(98)] process 4308 not found
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77b90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74bd0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72ea0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77950000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x758d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x748b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x748c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x753a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75630000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome_elf.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77910000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71d70000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75b00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71da0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75af0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73400000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73ee0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x742c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75930000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75880000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f60000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75fc0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74cb0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74d00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76050000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77460000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73d10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71660000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75c50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71030000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75320000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71200000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a90000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75e00000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74990000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x743f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75340000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71d50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77a40000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x725a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x68240000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\51.0.2704.84\chrome_child.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x710c0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\AVAST Software\Avast\aswJsFlt.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x745b0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCR110.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74550000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnIS.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x746f0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCP110.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnOS.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74690000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnBS.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74890000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\log.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ef0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NSI.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74360000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DNSAPI.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74480000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\commchannel.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73b10000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\JsonRpcServer.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74450000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\avastIP.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74430000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswEngLdr.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73420000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\AavmRpch.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WSOCK32.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77470000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SETUPAPI.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74090000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WININET.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74780000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashBase.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73520000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswAux.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73a50000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashTask.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733e0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SRVCLI.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x733d0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETUTILS.DLL
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x736a0000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\Aavm4h.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70e30000 of 64 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0616/223931:ERROR:process_reader_win.cc(232)] ReadMemory at 0x2fc374 of 12 bytes failed: Ukoñczono tylko czêœæ ¿¹dania ReadProcessMemory lub WriteProcessMemory. (0x12B)
+[0616/223931:WARNING:process_snapshot_win.cc(102)] ReadMemory ExceptionInformation failed
+[0616/223931:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0616/223931:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
